@@ -43,6 +43,10 @@ ax.set_ylim([0,2])
 
 fig.canvas.draw()
 
+
+# COULD NOT GET FOLLOWING TO WORK
+
+'''
 for ct in range(Nsteps):
 
     #matrix that solves for updated function 
@@ -57,4 +61,4 @@ for ct in range(Nsteps):
 
     fig.canvas.draw()
     pl.pause(0.001)
-    
+'''
