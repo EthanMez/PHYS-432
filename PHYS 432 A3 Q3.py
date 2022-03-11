@@ -1,6 +1,6 @@
 """
 PHYS 432 Assignment 3, Question 3
-Author: Ethan Meszaros (adopted from code by Prof. Eve Lee)
+Author: Ethan Meszaros (adopted from code by Prof. Eve Lee, phys432_w2022_diff.py)
 
 Lava flow simulation. 
 """
